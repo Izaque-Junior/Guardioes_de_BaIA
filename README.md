@@ -15,5 +15,5 @@ Instruções: O código foi feito e executado no Jupyter Notebook, onde estarão
 
 Período de desenvolvimento: Outubro e Novembro de 2023.
 
-Autores: Alice Barbarino, Iasodara Lima, Izaque da Silva e Maria Eduarda Crist.
+Autores: Alice Barbarino, Iasodara Lima, Izaque Silva e Maria Eduarda Crist.
 
