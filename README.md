@@ -1,5 +1,5 @@
 # Guardioes_de_BaIA
-O projeto tem por objetivo comparar aplicações de modelos de aprendizado de máquina para apontar caminhos de tratamento de dados, nomalização e aprendizado não supervisionado que possam ser mais eficientes para prever a expectativa de vida, com base no dataset da Organização Mundial da Saúde(OMS).
+O projeto tem por objetivo comparar aplicações de modelos de aprendizado de máquina para apontar caminhos de tratamento de dados, nomalização e aprendizado não supervisionado que possam ser mais eficientes para prever a expectativa de vida, com base no dataset da Organização Mundial da Saúde(OMS) - https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who.
 
 Na etapa de tratamento dos dados são aplicadas diferentes abordagens de tratar dados faltantes (NaN): remover as linhas com NaN, preenchê-las com a mediana, remover colunas com NaN. Também é realizado o processo de normalização em cada dataset resultante do procedimento anterior.
 
